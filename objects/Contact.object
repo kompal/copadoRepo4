@@ -332,6 +332,16 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>ArturoCheck3__c</fullName>
+        <externalId>false</externalId>
+        <label>ArturoCheck3</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AssistantName</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
