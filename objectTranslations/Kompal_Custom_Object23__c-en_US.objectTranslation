@@ -11,11 +11,11 @@
     <layouts>
         <layout>Kompal Second Layout</layout>
         <sections>
-            <label><!-- Custom Links --></label>
+            <label></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label><!-- New Section 2 --></label>
+            <label></label>
             <section>New Section 2</section>
         </sections>
     </layouts>
