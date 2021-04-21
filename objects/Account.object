@@ -553,6 +553,17 @@
     </listViews>
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
+        <fullName>AccountKompalRecord</fullName>
+        <active>true</active>
+        <description>checking commit diff</description>
+        <label>AccountKompalRecord</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>AccountKompalRecord3</fullName>
+        <active>true</active>
+        <label>AccountKompalRecord3</label>
+    </recordTypes>
+    <recordTypes>
         <fullName>CommitRec1</fullName>
         <active>true</active>
         <description>checking commit diff2</description>
@@ -1406,6 +1417,11 @@
                 <default>false</default>
             </values>
         </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>kompalAccount2</fullName>
+        <active>true</active>
+        <label>kompalAccount2</label>
     </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>

@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>true</custom>
+    <layoutAssignments>
+        <layout>Account-Account Layout Kompal1</layout>
+        <recordType>Account.AccountKompalRecord</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout Kompal2</layout>
+        <recordType>Account.kompalAccount2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout Kompal3</layout>
+        <recordType>Account.AccountKompalRecord3</recordType>
+    </layoutAssignments>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.AccountKompalRecord</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Account.AccountKompalRecord3</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.kompalAccount2</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
