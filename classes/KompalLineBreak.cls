@@ -17,4 +17,10 @@ public class KompalLineBreak {
         acc.Name = name;
         return acc;
     }
+    
+    public Account createAccount4(String name) { //method to create account
+        Account acc = new Account();
+        acc.Name = name;
+        return acc;
+    }
 }
