@@ -10,8 +10,9 @@
     </customPermissions>
     <customPermissions>
         <enabled>true</enabled>
-        <name>KompalCustom3</name>
+        <name>KompalCustom4</name>
     </customPermissions>
     <hasActivationRequired>false</hasActivationRequired>
-    <label>kompal</label>
+    <label>kompal2PermissionSet</label>
+    <license>Salesforce</license>
 </PermissionSet>
