@@ -8,6 +8,10 @@
         <enabled>true</enabled>
         <name>KompalCustom2</name>
     </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>KompalCustom3</name>
+    </customPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>kompal</label>
 </PermissionSet>
