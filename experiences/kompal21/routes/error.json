@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "7432ed0e-855a-4b73-8dcc-14b78303ec17",
+  "appPageId" : "d092c9e9-829e-48f9-bf2f-cfc9c3fd4285",
+  "configurationTags" : [ ],
+  "id" : "54794fb8-6a70-4032-a8c0-86a297cceccb",
+  "label" : "Error",
+  "pageAccess" : "UseParent",
+  "routeType" : "error",
+  "type" : "route",
+  "urlPrefix" : "error"
+}

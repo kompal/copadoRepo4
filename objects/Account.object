@@ -340,6 +340,26 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>KompalCustom1__c</fullName>
+        <externalId>false</externalId>
+        <label>KompalCustom1</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>KompalCustom2__c</fullName>
+        <externalId>false</externalId>
+        <label>KompalCustom2</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NaicsCode</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -553,10 +573,10 @@
     </listViews>
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
-        <fullName>CommitRec1</fullName>
+        <fullName>AccountKompalRecord</fullName>
         <active>true</active>
-        <description>checking commit diff2</description>
-        <label>CommitRec1</label>
+        <description>checking commit diff</description>
+        <label>AccountKompalRecord</label>
         <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
@@ -838,10 +858,9 @@
         </picklistValues>
     </recordTypes>
     <recordTypes>
-        <fullName>CommitRec2</fullName>
+        <fullName>AccountKompalRecord3</fullName>
         <active>true</active>
-        <description>checking commit diff4</description>
-        <label>CommitRec2</label>
+        <label>AccountKompalRecord3</label>
         <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
@@ -1123,10 +1142,9 @@
         </picklistValues>
     </recordTypes>
     <recordTypes>
-        <fullName>CommitRec3</fullName>
+        <fullName>kompalAccount2</fullName>
         <active>true</active>
-        <description>checking commit diff3</description>
-        <label>CommitRec3</label>
+        <label>kompalAccount2</label>
         <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
