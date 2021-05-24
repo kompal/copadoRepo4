@@ -2778,6 +2778,21 @@
         <layout>DuplicateRecordSet-Duplicate Record Set Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ElenaCustomObj__c-ElenaCustomObj Layout 360 Connect</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ElenaCustomObj__c-ElenaCustomObj Layout 360 Connect</layout>
+        <recordType>ElenaCustomObj__c.CRM_Work</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ElenaCustomObj__c-ElenaCustomObj Layout 360 Connect</layout>
+        <recordType>ElenaCustomObj__c.CRM_Work_SE</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ElenaCustomObj__c-ElenaCustomObj Layout 360 Connect</layout>
+        <recordType>ElenaCustomObj__c.X360_Connect_Contact</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>EmailMessage-Email Message Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3279,6 +3294,15 @@
         <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
+        <object>ElenaCustomObj__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>Idea</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -3642,6 +3666,21 @@
         <default>false</default>
         <recordType>Contact.TechlTest3</recordType>
         <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>ElenaCustomObj__c.CRM_Work</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>ElenaCustomObj__c.CRM_Work_SE</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>ElenaCustomObj__c.X360_Connect_Contact</recordType>
+        <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>

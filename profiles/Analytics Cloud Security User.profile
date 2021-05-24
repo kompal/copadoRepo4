@@ -2778,6 +2778,21 @@
         <layout>DuplicateRecordSet-Duplicate Record Set Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ElenaCustomObj__c-ElenaCustomObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ElenaCustomObj__c-ElenaCustomObj Layout</layout>
+        <recordType>ElenaCustomObj__c.CRM_Work</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ElenaCustomObj__c-ElenaCustomObj Layout</layout>
+        <recordType>ElenaCustomObj__c.CRM_Work_SE</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ElenaCustomObj__c-ElenaCustomObj Layout</layout>
+        <recordType>ElenaCustomObj__c.X360_Connect_Contact</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>EmailMessage-Email Message Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3297,6 +3312,21 @@
         <default>false</default>
         <recordType>Contact.TechlTest3</recordType>
         <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>ElenaCustomObj__c.CRM_Work</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>ElenaCustomObj__c.CRM_Work_SE</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>ElenaCustomObj__c.X360_Connect_Contact</recordType>
+        <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
