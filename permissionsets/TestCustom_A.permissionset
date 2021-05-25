@@ -2,8 +2,29 @@
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <customPermissions>
         <enabled>true</enabled>
+        <name>KompalCustom2</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>KompalCustom3</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
         <name>TestCustom_A</name>
     </customPermissions>
     <hasActivationRequired>true</hasActivationRequired>
     <label>TestCustom_A</label>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Account</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <recordTypeVisibilities>
+        <recordType>Account.AccountKompalRecord</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
 </PermissionSet>
