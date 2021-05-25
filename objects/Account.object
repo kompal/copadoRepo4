@@ -553,6 +553,12 @@
     </listViews>
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
+        <fullName>AccountKompalRecord</fullName>
+        <active>true</active>
+        <description>checking commit diff</description>
+        <label>AccountKompalRecord</label>
+    </recordTypes>
+    <recordTypes>
         <fullName>CommitRec1</fullName>
         <active>true</active>
         <description>checking commit diff2</description>
