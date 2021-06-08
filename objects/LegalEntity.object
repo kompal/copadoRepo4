@@ -161,7 +161,7 @@
         <columns>Description</columns>
         <columns>Status</columns>
         <filterScope>Mine</filterScope>
-        <label>My Legal Entities</label>
+        <label>Mis entidades legales</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>

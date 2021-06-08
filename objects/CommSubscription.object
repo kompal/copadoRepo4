@@ -152,7 +152,7 @@
     <listViews>
         <fullName>All_CommSubscriptions</fullName>
         <filterScope>Everything</filterScope>
-        <label>All Communication Subscriptions</label>
+        <label>Todas las Suscripciones de comunicaciones</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>DataUsePurpose</customTabListAdditionalFields>

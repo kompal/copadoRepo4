@@ -304,7 +304,7 @@
         <columns>TransactionDate</columns>
         <columns>EffectiveDate</columns>
         <filterScope>Mine</filterScope>
-        <label>My Finance Transactions</label>
+        <label>Mis Transacciones financieras</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Account</customTabListAdditionalFields>

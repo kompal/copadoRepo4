@@ -178,7 +178,7 @@
     <listViews>
         <fullName>All_PartyConsents</fullName>
         <filterScope>Everything</filterScope>
-        <label>All Party Consents</label>
+        <label>Todos los Consentimientos de partes</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Party</customTabListAdditionalFields>

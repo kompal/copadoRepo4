@@ -149,7 +149,7 @@
     <listViews>
         <fullName>All_DataUsePurposes</fullName>
         <filterScope>Everything</filterScope>
-        <label>All Data Use Purposes</label>
+        <label>Todos Propósitos de utilizaciones de datos</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>LegalBasis</customTabListAdditionalFields>

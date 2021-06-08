@@ -217,7 +217,7 @@
     <listViews>
         <fullName>CardPaymentMethod</fullName>
         <filterScope>Everything</filterScope>
-        <label>All</label>
+        <label>Todos</label>
     </listViews>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

@@ -119,9 +119,6 @@
         <fullName>Comments</fullName>
     </fields>
     <fields>
-        <fullName>ExternalReference</fullName>
-    </fields>
-    <fields>
         <fullName>MerchantCredentialId</fullName>
         <type>Lookup</type>
     </fields>
@@ -138,7 +135,7 @@
     <listViews>
         <fullName>PaymentGateway</fullName>
         <filterScope>Everything</filterScope>
-        <label>All</label>
+        <label>Todos</label>
     </listViews>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

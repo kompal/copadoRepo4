@@ -179,7 +179,7 @@
     <listViews>
         <fullName>All_ContactPointConsents</fullName>
         <filterScope>Everything</filterScope>
-        <label>All Contact Point Consents</label>
+        <label>Todos Consentimientos de puntos de contacto</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>ContactPoint</customTabListAdditionalFields>

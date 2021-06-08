@@ -163,7 +163,7 @@
     <listViews>
         <fullName>All_CommSubscriptionTimings</fullName>
         <filterScope>Everything</filterScope>
-        <label>All Communication Subscription Timings</label>
+        <label>Todas las Temporizaciones de suscripciones de comunicación</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Unit</customTabListAdditionalFields>
