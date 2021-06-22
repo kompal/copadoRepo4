@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>KompalCustom</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>KompalCustom2</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>KompalCustom3</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>KompalCustom4</name>
+    </customPermissions>
     <hasActivationRequired>true</hasActivationRequired>
     <label>KompalCustom2</label>
 </PermissionSet>

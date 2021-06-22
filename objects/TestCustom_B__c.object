@@ -175,7 +175,7 @@
         <active>true</active>
         <label>TestCustom_B</label>
     </recordTypes>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

@@ -8,13 +8,10 @@
         <plural>true</plural>
         <value>TestCustom_B</value>
     </caseValues>
-    <layouts>
-        <layout>TestCustom_B</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
+    <fields>
+        <label><!-- TestCustom_B --></label>
+        <name>TestCustom_B__c</name>
+    </fields>
     <recordTypes>
         <label><!-- TestCustom_B --></label>
         <name>TestCustom_B</name>

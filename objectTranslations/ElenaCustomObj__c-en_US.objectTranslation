@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ElenaCustomObj</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>ElenaCustomObjs</value>
+    </caseValues>
+    <recordTypes>
+        <label><!-- CRM_Work --></label>
+        <name>CRM_Work</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- CRM_Work_SE --></label>
+        <name>CRM_Work_SE</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- X360_Connect_Contact --></label>
+        <name>X360_Connect_Contact</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
