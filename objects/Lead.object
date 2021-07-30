@@ -532,6 +532,19 @@
         <label>View - Custom 2</label>
     </listViews>
     <recordTypes>
+        <fullName>KompalTestRec</fullName>
+        <active>true</active>
+        <businessProcess>Test_BuisnessProcess</businessProcess>
+        <label>KompalTestRec</label>
+        <picklistValues>
+            <picklist>LeadSource</picklist>
+            <values>
+                <fullName>Web</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
         <fullName>TestBusinessPro</fullName>
         <active>true</active>
         <businessProcess>Test_BuisnessProcess</businessProcess>
