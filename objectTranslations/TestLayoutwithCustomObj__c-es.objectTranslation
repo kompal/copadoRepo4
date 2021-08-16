@@ -8,5 +8,16 @@
         <plural>true</plural>
         <value></value>
     </caseValues>
+    <layouts>
+        <layout>KompalLayout2</layout>
+        <sections>
+            <label>test kompal custom object translation</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>test kompal custom object translation</label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>
