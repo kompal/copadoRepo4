@@ -2,19 +2,18 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value><!-- TestCustom_B --></value>
+        <value></value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value><!-- TestCustom_B --></value>
+        <value></value>
     </caseValues>
-    
     <layouts>
         <layout>TestCustom_B</layout>
         <sections>
-            <label><!-- Custom Links --></label>
+            <label></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
-    <nameFieldLabel><!-- TestCustom_B Name --></nameFieldLabel>
+    <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>
