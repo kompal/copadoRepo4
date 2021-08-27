@@ -26,6 +26,28 @@
             <section>New Section</section>
         </sections>
     </layouts>
+    <layouts>
+        <layout>KompalLayout3</layout>
+        <sections>
+            <label>test tt</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>test ttbb</label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>KompalLayout4</layout>
+        <sections>
+            <label>test tt</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>test ttbbb</label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
     <nameFieldLabel></nameFieldLabel>
     <recordTypes>
         <label>hello nerd 4</label>
