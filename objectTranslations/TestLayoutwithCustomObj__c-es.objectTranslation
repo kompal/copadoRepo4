@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- TestLayoutwithCustomObj --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- TestLayoutwithCustomObj --></value>
+    </caseValues>
+    
+    <nameFieldLabel><!-- TestLayoutwithCustomObj Name --></nameFieldLabel>
+    <recordTypes>
+        <label>hello nerd 4</label>
+        <name>kompalTest2</name>
+    </recordTypes>
+</CustomObjectTranslation>
