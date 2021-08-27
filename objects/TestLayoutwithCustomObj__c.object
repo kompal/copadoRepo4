@@ -159,6 +159,11 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>TestLayoutwithCustomObj</pluralLabel>
+    <recordTypes>
+        <fullName>kompalTest2</fullName>
+        <active>true</active>
+        <label>kompalTest2</label>
+    </recordTypes>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

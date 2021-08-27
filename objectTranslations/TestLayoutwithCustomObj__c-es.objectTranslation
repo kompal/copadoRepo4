@@ -20,4 +20,8 @@
         </sections>
     </layouts>
     <nameFieldLabel></nameFieldLabel>
+    <recordTypes>
+        <label>hello nerd 4</label>
+        <name>kompalTest2</name>
+    </recordTypes>
 </CustomObjectTranslation>
